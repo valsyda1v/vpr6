@@ -1,0 +1,1 @@
+import{a as e,i as t,o as n,r}from"./index-CQ0JJrNg.js";var i={class:`tours-page`},a=e({__name:`ToursView`,setup(e){return(e,a)=>(n(),t(`div`,i,[...a[0]||=[r(`h2`,null,`Наші тури`,-1)]]))}});export{a as default};

@@ -1,0 +1,1 @@
+import{a as e,c as t,i as n,o as r,r as i,s as a,t as o}from"./index-CQ0JJrNg.js";var s={class:`wishlist-page`},c=e({__name:`WishlistView`,setup(e){let c=o();return(e,o)=>(r(),n(`div`,s,[i(`h2`,null,`Моє вибране (`+t(a(c).wishlistCount)+`)`,1)]))}});export{c as default};

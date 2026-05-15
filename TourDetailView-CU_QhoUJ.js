@@ -1,0 +1,1 @@
+import{a as e,c as t,i as n,n as r,o as i,r as a,s as o}from"./index-CQ0JJrNg.js";var s={class:`detail-page`},c=e({__name:`TourDetailView`,setup(e){let c=r(),l=Number(c.params.id);return(e,r)=>(i(),n(`div`,s,[a(`h2`,null,`Деталі туру №`+t(o(l)),1)]))}});export{c as default};
